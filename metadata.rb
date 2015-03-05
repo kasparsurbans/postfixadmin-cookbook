@@ -35,7 +35,7 @@ supports 'ubuntu'
 
 depends 'apache2', '~> 3.0'
 depends 'ark', '~> 0.9'
-depends 'database', '>= 2.3.1'
+depends 'database'
 depends 'encrypted_attributes', '~> 0.2'
 depends 'mysql'
 depends 'nginx', '~> 2.7'
